@@ -10,6 +10,8 @@ class BangunDatar {
         void input() {
             cout << "Masukkan Panjangnya: ";
             cin >> panjang;
+            cout << "Masukkan Lebarnya: ";
+            cin >> lebar;
         }
 };
 
