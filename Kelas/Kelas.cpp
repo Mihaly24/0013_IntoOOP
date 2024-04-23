@@ -9,6 +9,7 @@ public:
 
 	void output() {
 		cout << "Nama: " << nama << endl;
+		cout << "Umur: " << umur << endl;
 	}
 };
 
