@@ -6,6 +6,10 @@ public:
 	string nama;
 	int umur;
 	string jurusan;
+
+	void output() {
+		cout << "Nama: " << nama << endl;
+	}
 };
 
 int main()
