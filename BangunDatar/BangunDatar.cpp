@@ -27,5 +27,5 @@ class BangunDatar {
 
 int main()
 {
-    
+    BangunDatar pp;
 }
